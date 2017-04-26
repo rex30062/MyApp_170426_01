@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cclz.myapp_170426_01.FragmentA"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:id="@+id/button"
+        android:layout_height="80dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="AAA"
+        android:id="@+id/textView"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:id="@+id/button2"
+        android:layout_height="80dp" />
+
+</LinearLayout>
